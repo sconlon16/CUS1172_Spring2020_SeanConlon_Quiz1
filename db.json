@@ -1,0 +1,218 @@
+{
+	"Quiz1": {
+		"MCQuestion": [{
+				"q": "What does HTML stand for?",
+				"choice1": "Hyperlink Text Markup Language",
+				"choice2": "Hyperlinks Text Makeup Language",
+				"choice3": "Hypertext Markup Language",
+				"choice4": "Hypertexts Markup Language",
+        "answer": {
+          "correctChoice":"Hypertext Markup Language",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Hypertext Markup Language."
+			},
+			{
+				"q": "What is the HTML element for line break?",
+				"choice1": "&lt;bke&gt;",
+				"choice2": "&lt;b&gt;",
+				"choice3": "&lt;br&gt;",
+				"choice4": "&lt;break&gt;",
+        "answer": {
+          "correctChoice":"&lt;br&gt;",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is &lt;br&gt;."
+			},
+			{
+				"q": "How do you insert a comment in CSS?",
+				"choice1": "// comment",
+				"choice2": "/* comment */",
+				"choice3": "// comment //",
+				"choice4": "“comment”",
+        "answer": {
+          "correctChoice":"/* comment */",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is /* comment */."
+			},
+			{
+				"q": "In bootstrap, which choice builds a dropdown menu",
+				"choice1": ".drop",
+				"choice2": ".dropdown",
+				"choice3": ".dropdown-menu",
+				"choice4": ".dropdown-header",
+        "answer": {
+          "correctChoice":".dropdown-menu",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is .dropdown-menu."
+			},
+			{
+				"q": "Which is the proper way to write a Javascript array?",
+				"choice1": "var cars = “coupe”, “sedan”, “suv”",
+				"choice2": "var cars = “coupe” =1,”sedan” =1, “suv”=1",
+				"choice3": "var cars =[“coupe”,”sedan”,”suv”];",
+				"choice4": "var cars={ coupe,sedan,suv}",
+        "answer": {
+          "correctChoice":"var cars =[“coupe”,”sedan”,”suv”];",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is var cars =[“coupe”,”sedan”,”suv”];."
+			},
+      {
+				"q": "Which programming language uses the following as an output:System.out.println();?",
+				"choice1": "HTML",
+				"choice2": "Java",
+				"choice3": "Javascript",
+				"choice4": "None of the above",
+        "answer": {
+          "correctChoice":"Java",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Java."
+			},
+      {
+				"q": "Which of the following function of Number object defines how many total digits to display of a number?",
+				"choice1": "toExponential()",
+				"choice2": "toPrecision()",
+				"choice3": "toLocaleString()",
+				"choice4": "None of the above",
+        "answer": {
+          "correctChoice":"None of the above",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is None of the above. The correct function is toFixed()."
+      }
+		],
+
+		"TFQuestion": [{
+				"q": "Javascript and Java are the same. ",
+				"Tchoice": "True",
+				"Fchoice": "False",
+        "answer": {
+          "correctChoice":"False",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is False. They are not the same."
+			},
+			{
+				"q": "A blueprint is the most similar to programming.",
+				"Tchoice": "True",
+				"Fchoice": "False",
+        "answer": {
+          "correctChoice":"True",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True. A blueprint is similar to programming."
+			},
+			{
+				"q": "Fortran is the oldest computer programming language, still in use today. ",
+				"Tchoice": "True",
+				"Fchoice": "False",
+        "answer": {
+          "correctChoice":"True",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True. Fortran is still being used today. "
+			},
+      {
+				"q": "NaN stands for not a number.",
+				"Tchoice": "True",
+				"Fchoice": "False",
+        "answer": {
+          "correctChoice":"True",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True. NaN stands for not a number."
+			},
+      {
+				"q": "CSS is not used for styling.",
+				"Tchoice": "True",
+				"Fchoice": "False",
+        "answer": {
+          "correctChoice":"False",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is False. CSS is used for styling"
+			},
+      {
+				"q": "All user-defined objects and built-in objects are descendants of an object called Object?",
+				"Tchoice": "True",
+				"Fchoice": "False",
+        "answer": {
+          "correctChoice":"True",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is True. Objects are all-user defined objects and built-in objects are descendants of an Object."
+			}
+		],
+
+		"FillIn": [{
+				"q": "HTML is a",
+				"option1": "",
+        "answer": {
+          "correctChoice":"Programming language",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is Programming language. "
+			},
+			{
+				"q": "The current version of HTML is",
+				"option1": "",
+        "answer": {
+          "correctChoice":"HTML5",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is HTML5. Current version is HTML5."
+			},
+      {
+				"q": "To end the &lt;html&gt; tag you must put",
+				"option1": "",
+				"answer": {
+          "correctChoice":"&lt;/html&gt;",
+          "pointsAwarded": 1
+        },
+        "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is &lt;/html&gt;."
+      },
+			{
+      "q": "How do you start an HTML5 file?",
+      "option1": "",
+      "answer": {
+        "correctChoice":"&lt;!DOCTYPE HTML&gt;",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is &lt;!DOCTYPE HTML&gt;."
+      },
+      {
+      "q": "The Bootstrap grid system is based on ",
+      "option1": "",
+      "answer": {
+        "correctChoice":"12 columns",
+        "pointsAwarded": 1
+      },
+      "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is 12 columns."
+    }
+		 ],
+
+		"ShortAnswer": [{
+			"q": "In Javascript, the _____ statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed.",
+			"usertext": "",
+      "answer":{
+      "correctChoice":"if/else",
+      "pointsAwarded": 1
+    },
+    "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is if/else. This executes a block of code."
+		},
+    {
+      "q":"How to empty an array in JavaScript?",
+      "usertext":"",
+      "answer":{
+      "correctChoice":"arrayList = []",
+      "pointsAwarded": 1
+    },
+    "messageIfIncorrect": "Sorry, that is incorrect! The correct answer is arrayList = []. This will empty an array."
+    }
+  ]
+  }
+}
